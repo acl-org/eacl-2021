@@ -9,10 +9,12 @@ excerpt: "<br/><br/>"
 ---
 
 ## News
-
+<div class="notice--info" markdown="1">
+  <h2 id="eacl-2021-best-paper-awards">EACL 2021 Virtual Conference site is now public!</h2>
+  **November 23, 2021**. The <a href="https://www.virtual2021.eacl.org/" target="_blank" rel="noopener noreferrer"> is now public! You can view the recordings of the keynotes, papers and so much more.  
+ </div> 
 <div class="notice--info" markdown="1">
   <h2 id="eacl-2021-best-paper-awards">EACL 2021 Best Paper Awards</h2>
-  **November 23, 2021**. The <a href="https://www.virtual2021.eacl.org/" target="_blank" rel="noopener noreferrer"> is now public! You can view the recordings of the keynotes, papers and so much more.  
 </div>
 
   **April 23, 2021**. Congratulations to the recipients of the [best paper awards]({{ "/best-paper" | relative_url }}) at EACL 2021!
